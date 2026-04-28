@@ -1,4 +1,4 @@
-# Hi, I'm SCS Safwan 👋
+# Hi, I'm Safwan Bin Mahbub (SCS Safwan) 👋
 
 Cyber Security Enthusiast | Tool Developer
 
