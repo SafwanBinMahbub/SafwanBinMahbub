@@ -1,18 +1,19 @@
-# Hi, I'm Safwan Bin Mahbub (SCS Safwan) 👋
+# Hi, I'm Safwan Bin Mahbub 👋  
+### aka SCS Safwan
 
-Cyber Security Enthusiast | Tool Developer
+Cyber Security Enthusiast | Automation & Recon Developer
 
 ![Banner](banner.png)
 
 ## About Me
-I build efficient automation and reconnaissance workflows focused on real-world security use cases.  
-Driven by curiosity, I experiment, break, learn, and improve systems continuously.
+I build efficient automation and reconnaissance workflows focused on real-world security.  
+I explore, break, analyze, and continuously improve systems.
 
 ## Focus
 - Automation & Workflow Optimization  
 - Reconnaissance & Intelligence Gathering  
 - OSINT & Data Analysis  
-- Practical Cybersecurity
+- Practical Cybersecurity  
 
 ## Skills
 - Python  
@@ -22,17 +23,15 @@ Driven by curiosity, I experiment, break, learn, and improve systems continuousl
 
 ## Mindset
 - Learn fast, adapt faster  
-- Build, break, secure  
+- Build. Break. Secure.  
 - Stay low, think deep  
 
-## Goals
-- Create impactful security tools  
-- Master offensive & defensive techniques  
-- Contribute to the cybersecurity community  
+## Vision
+Turning ideas into tools, and tools into impact.
 
 ---
 
-> “The quieter you become, the more you hear.”
+> The quieter you become, the more you hear.
 <!--
 **SafwanBinMahbub/SafwanBinMahbub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
